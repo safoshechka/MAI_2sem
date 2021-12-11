@@ -13,5 +13,14 @@
     <mapping directory="$PROJECT_DIR$/lab23" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/lab24" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/lab26" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sem2/kp6" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sem2/kp7" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sem2/kp8" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sem2/kp9" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sem2/lab21" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sem2/lab22" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sem2/lab23" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sem2/lab24" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sem2/lab26" vcs="Git" />
   </component>
 </project>
